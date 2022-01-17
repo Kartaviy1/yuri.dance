@@ -1,5 +1,5 @@
 // Declare  vars up here so we can use them in functions
-var body 
+let body 
 var stage
 var eyes
 var yuri
