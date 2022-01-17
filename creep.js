@@ -6,8 +6,8 @@ var yuri
 var overlay
 var face
 var stageScale = 1
-var heartbeat = new Audio("assets/audio/heartbeat.ogg")
-var glitch = new Audio("assets/audio/glitch.ogg")
+var heartbeat = Audio("assets/audio/heartbeat.ogg")
+var glitch = Audio("assets/audio/glitch.ogg")
 var loopFrame
 var loop
 var eyeLoop
